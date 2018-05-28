@@ -4,9 +4,10 @@ Morphological Synthesizer that Utilizes Segmentation Information (for Korean)
 ## Requirements
 KoNLPy, pyfasttext, Keras (TensorFlow), Numpy, Scikit-learn, NLTK
 
-## Word Vector (model.bin)
+## Word Vector 
 https://drive.google.com/file/d/1PE7RWIjLyBaBdrLg_ybUpnoJAvibkrXY/view?usp=sharing
-* Download this and unzip in the same folder with 'fxcute.py'.
+* Download this and unzip THE FOLDER in the same folder with 'fxcute.py' 
+* Loading the model will be processed by load_model('vector/model')
 
 ## System Description
 * Easy start: Python3 execute file
