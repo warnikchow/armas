@@ -1,5 +1,5 @@
 # MSUSI
-Morphological Synthesizer that Utilizes Segmentation Information
+Morphological Synthesizer that Utilizes Segmentation Information (for Korean)
 
 ## Requirements
 KoNLPy, pyfasttext, Keras (TensorFlow), Numpy, Scikit-learn, NLTK
