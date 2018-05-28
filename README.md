@@ -2,7 +2,7 @@
 Morphological Synthesizer that Utilizes Segmentation Information (for Korean)
 
 ## Requirements
-KoNLPy, pyfasttext, Keras (TensorFlow), Numpy, Scikit-learn, NLTK
+KoNLPy, pyfasttext, Keras (TensorFlow), Numpy, NLTK
 
 ## Word Vector 
 https://drive.google.com/file/d/1PE7RWIjLyBaBdrLg_ybUpnoJAvibkrXY/view?usp=sharing
