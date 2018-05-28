@@ -5,7 +5,7 @@ Morphological Synthesizer that Utilizes Segmentation Information
 KoNLPy, pyfasttext, Keras (TensorFlow), Numpy, Scikit-learn, NLTK
 
 ## Word Vector (model.bin)
-https://drive.google.com/file/d/1QtkE0hiBT97c5AMNln-F3Sx7F3xZL0xc/view?usp=sharing
+https://drive.google.com/file/d/1PE7RWIjLyBaBdrLg_ybUpnoJAvibkrXY/view?usp=sharing
 * Download this and unzip in the same folder with 'fxcute.py'.
 
 ## System Description
