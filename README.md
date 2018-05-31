@@ -1,4 +1,4 @@
-# ASRUSI
+# ASRUCSI
 Attention-based Sentence Reconstruction that Utilizes the Context and Spacing Information (for Korean)
 
 ## Requirements
