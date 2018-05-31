@@ -1,5 +1,5 @@
-# ARMAS
-Attention-based Reconstruction from Morphologically Analyzed Sentences (for Korean)
+# ASRUSI
+Attention-based Sentence Reconstruction that Utilizes the Spacing Information (for Korean)
 
 ## Requirements
 KoNLPy, pyfasttext, Keras (TensorFlow), Numpy, NLTK
