@@ -1,5 +1,5 @@
 # ASRUSI
-Attention-based Sentence Reconstruction that Utilizes the Spacing Information (for Korean)
+Attention-based Sentence Reconstruction that Utilizes the Context and Spacing Information (for Korean)
 
 ## Requirements
 KoNLPy, pyfasttext, Keras (TensorFlow), Numpy, NLTK
