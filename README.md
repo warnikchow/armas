@@ -1,5 +1,5 @@
-# MSUSI
-Morphological Synthesizer that Utilizes Segmentation Information (for Korean)
+# ASRE
+Attention-based Sentence Refinement (for Korean)
 
 ## Requirements
 KoNLPy, pyfasttext, Keras (TensorFlow), Numpy, NLTK
