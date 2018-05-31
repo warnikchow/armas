@@ -1,5 +1,5 @@
-# ASRE
-Attention-based Sentence Refinement (for Korean)
+# ARMAS
+Attention-based Reconstruction of Morphologically Analyzed Sentences (for Korean)
 
 ## Requirements
 KoNLPy, pyfasttext, Keras (TensorFlow), Numpy, NLTK
