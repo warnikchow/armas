@@ -1,5 +1,5 @@
 # ARMAS
-Attention-based Reconstruction of Morphologically Analyzed Sentences (for Korean)
+Attention-based Reconstruction from Morphologically Analyzed Sentences (for Korean)
 
 ## Requirements
 KoNLPy, pyfasttext, Keras (TensorFlow), Numpy, NLTK
